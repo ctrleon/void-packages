@@ -1,0 +1,13 @@
+# Template file for 'bartib'
+pkgname=bartib
+version=1.1.0
+revision=1
+archs="x86_64"
+build_style=cargo
+short_desc="Simple timetracker for the command line"
+maintainer="Cristina Leon <cristinaleon@posteo.com>"
+license="GPL-3.0-only"
+homepage="https://github.com/nikolassv/bartib"
+changelog="https://raw.githubusercontent.com/nikolassv/bartib/refs/heads/master/CHANGELOG.md"
+distfiles="https://github.com/nikolassv/bartib/archive/refs/tags/v${version}.tar.gz"
+checksum=29fcfb9fc2a64c11023d4be9904e2c70e49ec1f6c9f8ce4c6ee9d73825d2f6f4
